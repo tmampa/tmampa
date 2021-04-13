@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tmampa
+- 👋 <h1>Hi, I’m @tmampa</h1>
 - 👀 I’m interested in software developing
 - 🌱 I’m currently learning software development at Microverse
 - 💞️ I’m looking to collaborate on open source projects
