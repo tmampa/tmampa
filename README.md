@@ -1,6 +1,6 @@
-- 👋 <h1>Hi, I’m @tmampa</h1>
-- 👀 I’m interested in software developing
-- 🌱 I’m currently learning software development at Microverse
+- <h1>👋 Hi, I’m Tshephang Mampa</h1>
+- 👀 I’m interested in <b>software developing</b>
+- 🌱 I’m currently learning Software Development at Microverse
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me tmampa94@gmail.com
 
