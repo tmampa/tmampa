@@ -1,4 +1,6 @@
 - <h1>👋 Hi, I’m Tshephang Mampa</h1>
+<img src="tshephang mampa.gif" >
+
 - 👀 I’m interested in <b>software developing</b>
 - 🌱 I’m currently learning Software Development at Microverse
 - 💞️ I’m looking to collaborate on open source projects
