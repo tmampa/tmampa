@@ -2,7 +2,7 @@
 <img src="tshephang mampa.gif" >
 
 - 👀 I’m interested in <b>software developing</b>
-- 🌱 I’m currently learning Software Development at Microverse
+- 🌱 Software Engineer 
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me tmampa94@gmail.com
 
