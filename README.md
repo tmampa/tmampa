@@ -89,7 +89,7 @@ username=tmampa&layout=compact&bg_color=0d1117&text_color=fff"  height="165">
 
 <p align="center">
   <a href="mailto:tmampa94@gmail.com">Email</a> • 
-  <a href="https://twitter.com/tshephangm_">Twitter</a>
+  <a href="https://twitter.com/tshephangm_">Twitter</a> •
   <a href="https://linkedin.com/in/tshephangmampa">LinkedIn</a>
 </p>
 
